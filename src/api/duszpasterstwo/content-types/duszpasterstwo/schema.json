@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "duszpasterstwos",
+  "info": {
+    "singularName": "duszpasterstwo",
+    "pluralName": "duszpasterstwos",
+    "displayName": "Duszpasterstwo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
